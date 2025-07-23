@@ -44,6 +44,7 @@ The dataset contains **10,999 transactions** with the following features:
 - Analyze key business drivers (e.g., discounts, weight).
 - Translate insights into logistics improvements.
 - Save the best model for deployment.
+- The trained model (`best_model.pkl`) is included for easy reuse and deployment.
 
 ---
 
