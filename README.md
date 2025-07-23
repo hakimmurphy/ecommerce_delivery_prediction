@@ -4,6 +4,14 @@ Predicting whether online orders will be delivered on time using machine learnin
 
 ---
 
+## 📁 FolderOrganization
+ecommerce_delivery_prediction/
+├── E_commerce_Predicting_OnTime_Delivery.ipynb
+├── e_commerce.csv
+├── requirements.txt
+└── README.md
+
+
 ## 📘 Project Overview
 
 In today’s competitive e-commerce landscape, **delivery speed** is critical for customer retention and business success. This project leverages machine learning to predict whether an order will be **delivered on time**, helping companies:
