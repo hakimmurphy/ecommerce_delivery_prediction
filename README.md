@@ -4,14 +4,6 @@ Predicting whether online orders will be delivered on time using machine learnin
 
 ---
 
-## 📁 FolderOrganization
-ecommerce_delivery_prediction/
-├── E_commerce_Predicting_OnTime_Delivery.ipynb
-├── e_commerce.csv
-├── requirements.txt
-├── best_model.pkl
-└── README.md
-
 
 ## 📘 Project Overview
 
