@@ -12,6 +12,7 @@ In today’s competitive e-commerce landscape, **delivery speed** is critical fo
 - Reduce logistics costs
 - Identify at-risk orders before shipping
 - Enhance overall customer experience
+- Detailed analysis in notebook
 
 ---
 
