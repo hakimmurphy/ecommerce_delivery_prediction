@@ -59,3 +59,12 @@ The dataset contains **10,999 transactions** with the following features:
    ```bash
    git clone https://github.com/your-username/ecommerce-delivery-prediction.git
    cd ecommerce-delivery-prediction
+   ```
+
+## 📄 License
+MIT
+
+---
+
+## 🗣️ Author
+Hakim Murphy
